@@ -1,5 +1,6 @@
 ### 配置
 
+```js
 // ==UserScript==
 // @name 名称
 // @namespace http://tampermonkey.net/
@@ -11,6 +12,7 @@
 
 // @require file:///C:\Users\25318\Desktop\my\tampermonkey\xuechengzaixian.js // 添加本地 js 文件, 记得给油猴插件打开权限
 // @grant none
+```
 
 #### 添加 dom button
 
